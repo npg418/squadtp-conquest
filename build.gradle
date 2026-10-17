@@ -49,7 +49,7 @@ legacyForge {
 }
 
 mixin {
-    add sourceSets.main, 'mixins.squadtpconquest.refmap.json'
+    add sourceSets.main, 'squadtpconquest.refmap.json'
     config 'mixins.squadtpconquest.json'
 }
 

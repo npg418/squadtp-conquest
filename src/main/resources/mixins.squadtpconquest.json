@@ -1,7 +1,9 @@
 {
   "required": true,
+  "minVersion": "0.8",
   "package": "uk.iwaservice.squadtpconquest.mixin",
   "compatibilityLevel": "JAVA_17",
+  "refmap": "squadtpconquest.refmap.json",
   "mixins": [
     "PlayerMixin"
   ],
